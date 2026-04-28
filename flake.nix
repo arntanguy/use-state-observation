@@ -2,8 +2,8 @@
   description = "use-state-observation flake";
 
   inputs.mc-rtc-nix.url = "github:mc-rtc/nixpkgs";
-  inputs.state-observation.url = "path:/home/arnaud/devel/mc-rtc-nix/workspace/state-observation";
-  # inputs.state-observation.url = "github:jrl-umi3218/state-observation/pull/24/head";
+  inputs.state-observation.url = "github:jrl-umi3218/state-observation/pull/24/head";
+  # inputs.state-observation.url = "path:/home/arnaud/devel/mc-rtc-nix/workspace/state-observation";
   inputs.jrl-cmakemodulesv2.url = "github:jrl-umi3218/jrl-cmakemodules/pull/798/head";
   # inputs.jrl-cmakemodulesv2.url = "path:/home/arnaud/devel/mc-rtc-nix/workspace/jrl-cmakemodulesv2";
 

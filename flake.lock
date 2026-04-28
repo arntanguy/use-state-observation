@@ -1187,14 +1187,18 @@
         "mc-rtc-nix": "mc-rtc-nix_2"
       },
       "locked": {
-        "lastModified": 1777369757,
-        "narHash": "sha256-LU7F+P5pzRenjsmRjMX0DqpzwHUAOSGqgquY5Qav/1w=",
-        "path": "/home/arnaud/devel/mc-rtc-nix/workspace/state-observation",
-        "type": "path"
+        "lastModified": 1777370470,
+        "narHash": "sha256-Nel9CnXVtxflLTZwMSuNlz2NJyDR62phy0y5QXDVTZc=",
+        "owner": "jrl-umi3218",
+        "repo": "state-observation",
+        "rev": "014c58eb27c8c1a6ddea8589c32e267cf8ff33d9",
+        "type": "github"
       },
       "original": {
-        "path": "/home/arnaud/devel/mc-rtc-nix/workspace/state-observation",
-        "type": "path"
+        "owner": "jrl-umi3218",
+        "ref": "pull/24/head",
+        "repo": "state-observation",
+        "type": "github"
       }
     },
     "system-manager": {
