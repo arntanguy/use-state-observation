@@ -18,7 +18,7 @@
               stdenv,
               cmake,
               state-observation,
-              jrl-cmakemodules,
+              jrl-cmakemodulesv2,
               lib,
               ...
             }:
@@ -27,7 +27,7 @@
               src = lib.cleanSource ./.;
               nativeBuildInputs = [
                 cmake
-                jrl-cmakemodules
+                jrl-cmakemodulesv2
               ];
               propagatedBuildInputs = [
                 state-observation
